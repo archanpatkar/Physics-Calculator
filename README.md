@@ -1,2 +1,4 @@
 # Physics-Calculator
-This is a android app created for calculating Velocity and acceleration and moving the ball according to it  
+## This is a android app for calculating Velocity and Acceleration and animating the movement
+
+### Old Application Created for School Science Project in IX Standard 
